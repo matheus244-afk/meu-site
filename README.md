@@ -25,12 +25,12 @@
 
     <section class="contato">
         <h2>Contato</h2>
-        <p>Você pode entrar em contato comigo pelo e-mail: <strong>seu.email moliveira3052@gmsil.com</strong></p>
+        <p>Você pode entrar em contato comigo pelo e-mail: <strong> moliveira3052@gmsil.com</strong></p>
         <p>Ou me seguir no <a href="https://github.com/seu-usuario" target="_blank">GitHub</a>.</p>
     </section>
 
     <footer>
-        <p>© 2025 - Desenvolvido por Seu Nome</p>
+        <p>© 2025 - Desenvolvido por matheus oliveira</p>
     </footer>
 
     <script>
