@@ -25,7 +25,7 @@
 
     <section class="contato">
         <h2>Contato</h2>
-        <p>Você pode entrar em contato comigo pelo e-mail: <strong>seu.email@exemplo.com</strong></p>
+        <p>Você pode entrar em contato comigo pelo e-mail: <strong>seu.email moliveira3052@gmsil.com</strong></p>
         <p>Ou me seguir no <a href="https://github.com/seu-usuario" target="_blank">GitHub</a>.</p>
     </section>
 
@@ -56,50 +56,3 @@
     </script>
 </body>
 </html>
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    background-color: #f4f4f4;
-    color: #333;
-}
-
-header {
-    background-color: #24292e;
-    color: white;
-    padding: 20px;
-    text-align: center;
-}
-
-section {
-    padding: 20px;
-    max-width: 900px;
-    margin: auto;
-}
-
-.repositorio {
-    background: white;
-    margin-bottom: 20px;
-    padding: 15px;
-    border-radius: 5px;
-    box-shadow: 0 0 5px rgba(0,0,0,0.1);
-}
-
-.repositorio a {
-    color: #0366d6;
-    text-decoration: none;
-}
-
-footer {
-    background-color: #eee;
-    text-align: center;
-    padding: 10px;
-    margin-top: 40px;
-}
-
-.sobre, .contato {
-    background-color: #fff;
-    margin-bottom: 20px;
-    border-radius: 5px;
-    box-shadow: 0 0 5px rgba(0,0,0,0.1);
-    padding: 15px;
-}
