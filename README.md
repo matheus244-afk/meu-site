@@ -25,7 +25,7 @@
 
     <section class="contato">
         <h2>Contato</h2>
-        <p>Você pode entrar em contato comigo pelo e-mail: <strong> moliveira3052@gmsil.com</strong></p>
+        <p>Você pode entrar em contato comigo pelo e-mail: <strong> moliveira3052@gmail.com</strong></p>
         <p>Ou me seguir no <a href="https://github.com/seu-usuario" target="_blank">GitHub</a>.</p>
     </section>
 
